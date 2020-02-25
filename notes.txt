@@ -1,0 +1,1 @@
+can i use javascript to alter the contents instead of having 100 navigations?
